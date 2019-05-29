@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+<title>오늘 우리의 이어쓰기 - 홈</title>
+</head>
+<body>
+  <h1><a href="index.html">We Write Today</h1></a>
+<ol>
+  <li><a href="1.project">프로젝트</li></a>
+  <li><a href="2.members">멤버 소개</</li></a>
+  <li><a href="3.wewritetoday">이어쓰기</li></a>
+</ol>
+<h2>멤버 소개</h2>
+
+<p>
+  <img src="MR.jpg" width="15%">
+  <H3>MR</H3>MR는 미라다
+  <p>
+  <img src="NN.jpg" width="15%">
+  <H3>NN</H3>NN은 나니다
+  <p>
+  <img src="HB.jpg" width="15%">
+  <H3>HB</H3>HB는 나미다
+  <p>
+  <img src="YJ.jpg" width="15%">
+  <H3>YJ</H3>YJ은 백구다 왕왕
